@@ -1,4 +1,7 @@
-# 2022年终总结
+import os
+
+flag = 0
+markdown = """# 2022年终总结
 
 <!-- 此处待完善 -->
 
@@ -19,6 +22,30 @@
 
 ---
 
+"""
 
-| Article | Blog\_ID | IA\_Archived |
-| --- | --- | --- |
+with open('metadata.md', 'r') as f:
+  file = f.read()
+lines = file.splitlines()
+header = lines[0:2]
+# print(header)
+# import sys
+# sys.exit(0)
+lines = set(lines[2:])
+lines.discard('')
+lines = list(lines)
+lines.sort()
+
+# with open('metadata.md', 'w') as f:
+#   for line in header:
+#     f.write(line+'\n')    
+#   for line in lines:
+#     f.write(line+'\n')
+
+with open('README.md', 'w') as f:
+  f.write(markdown+'\n')
+  for line in header:
+    f.write(line+'\n')
+  lines = set(lines)
+  for line in lines:
+    f.write(line+'\n')
