@@ -7,3 +7,4 @@
 | [2022 年概览 - Elizen](https://elizen.me/posts/2022/12/2022-end/) | 534 | [IA](https://web.archive.org/web/20221224152127/https://elizen.me/posts/2022/12/2022-end/) |
 | [2022年结语 - 王志勇的Blog](http://www.auiou.com/relevant/00002059.jsp) | 1060 | [IA](https://web.archive.org/web/20221224153626/http://www.auiou.com/relevant/00002059.jsp) |
 | [二〇二二，不二好吗 - 木木木木木](https://immmmm.com/three-cycle-2022/) | 77 | [IA](https://web.archive.org/web/20221224013840/https://immmmm.com/three-cycle-2022/) |
+| [2022年总结：保持&缓行 - luozhiyun`s Blog](https://www.luozhiyun.com/archives/737) | 432 | [IA](https://web.archive.org/web/20221224154503/https://www.luozhiyun.com/archives/737) |
