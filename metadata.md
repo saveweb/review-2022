@@ -4,3 +4,4 @@
 | [2022年终总结 – 林林杂语](https://www.xiaozonglin.cn/2022-ending-summary/) | 1194 | [IA](https://web.archive.org/web/20221219131858/https://www.xiaozonglin.cn/2022-ending-summary/) |
 | [告别在好与坏之间来回徘徊的 2022 – 沈唁志](https://qq52o.me/2813.html) | 722 | [IA](https://web.archive.org/web/20221218155754/https://qq52o.me/2813.html) |
 | [写在 2022 年末 - Lawrence](https://lawrenceli.me/blog/2022-in-review) | 800 | [IA](https://web.archive.org/web/20221219015528/https://lawrenceli.me/blog/2022-in-review) |
+| [2022 年概览 - Elizen](https://elizen.me/posts/2022/12/2022-end/) | 534 | [IA](https://web.archive.org/web/20221224152127/https://elizen.me/posts/2022/12/2022-end/) |
