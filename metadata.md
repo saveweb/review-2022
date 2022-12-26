@@ -9,3 +9,4 @@
 | [二〇二二，不二好吗 - 木木木木木](https://immmmm.com/three-cycle-2022/) | 77 | [IA](https://web.archive.org/web/20221224013840/https://immmmm.com/three-cycle-2022/) |
 | [2022年总结：保持&缓行 - luozhiyun`s Blog](https://www.luozhiyun.com/archives/737) | 432 | [IA](https://web.archive.org/web/20221224154503/https://www.luozhiyun.com/archives/737) |
 | [2022 · 在绝望中前行 - 静かな森](https://innei.ren/notes/136) | 286 | [IA](https://web.archive.org/web/20221225152658/https://innei.ren/notes/136) |
+| [RECAP2022: 流星雨 - 满五的博客](https://blog.aeilot.top/2022/12/17/recap/) |  | [IA](https://web.archive.org/web/20221226045545/https://blog.aeilot.top/2022/12/17/recap/) |
