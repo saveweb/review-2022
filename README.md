@@ -32,3 +32,4 @@
 | [2022 年终总结及 2023 的计划 - rxliuli blog](https://blog.rxliuli.com/p/48334b653bc9470aae86d06519a907ec/) | 719 | [IA](https://web.archive.org/web/20221217074724/https://blog.rxliuli.com/p/48334b653bc9470aae86d06519a907ec/) |
 | [2022 年概览 - Elizen](https://elizen.me/posts/2022/12/2022-end/) | 534 | [IA](https://web.archive.org/web/20221224152127/https://elizen.me/posts/2022/12/2022-end/) |
 | [2022年总结：保持&缓行 - luozhiyun`s Blog](https://www.luozhiyun.com/archives/737) | 432 | [IA](https://web.archive.org/web/20221224154503/https://www.luozhiyun.com/archives/737) |
+| [Great Voyage at 2022 - 鱼类观测研究所](https://lz233.ac.cn/2022/12/16/great-voyage-at-2022) |  | [IA](https://web.archive.org/web/20221223190520/https://lz233.ac.cn/2022/12/16/great-voyage-at-2022) |
