@@ -10,3 +10,4 @@
 | [2022年总结：保持&缓行 - luozhiyun`s Blog](https://www.luozhiyun.com/archives/737) | 432 | [IA](https://web.archive.org/web/20221224154503/https://www.luozhiyun.com/archives/737) |
 | [2022 · 在绝望中前行 - 静かな森](https://innei.ren/notes/136) | 286 | [IA](https://web.archive.org/web/20221225152658/https://innei.ren/notes/136) |
 | [诗酒趁年华——年终回顾（2022）](https://pages.clckblog.space/posts/recap-2022/) | | [IA](https://web.archive.org/web/20221226045922/https://pages.clckblog.space/posts/recap-2022/) |
+| [这不过是个开场 - Mr. Will](https://blog.mrwillcom.com/2022/12/19/It-s-just-the-Beginning/) |  | [IA](https://web.archive.org/web/20221226023021/https://blog.mrwillcom.com/2022/12/19/It-s-just-the-Beginning/) |
