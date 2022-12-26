@@ -9,4 +9,7 @@
 | [二〇二二，不二好吗 - 木木木木木](https://immmmm.com/three-cycle-2022/) | 77 | [IA](https://web.archive.org/web/20221224013840/https://immmmm.com/three-cycle-2022/) |
 | [2022年总结：保持&缓行 - luozhiyun`s Blog](https://www.luozhiyun.com/archives/737) | 432 | [IA](https://web.archive.org/web/20221224154503/https://www.luozhiyun.com/archives/737) |
 | [2022 · 在绝望中前行 - 静かな森](https://innei.ren/notes/136) | 286 | [IA](https://web.archive.org/web/20221225152658/https://innei.ren/notes/136) |
-| [这不过是个开场 - Mr. Will](https://blog.mrwillcom.com/2022/12/19/It-s-just-the-Beginning/) |  | [IA](https://web.archive.org/web/20221226023021/https://blog.mrwillcom.com/2022/12/19/It-s-just-the-Beginning/) |
+| [这不过是个开场 - Mr. Will](https://blog.mrwillcom.com/2022/12/19/It-s-just-the-Beginning/) | 1588 | [IA](https://web.archive.org/web/20221226023021/https://blog.mrwillcom.com/2022/12/19/It-s-just-the-Beginning/) |
+| [Great Voyage at 2022 - 鱼类观测研究所](https://lz233.ac.cn/2022/12/16/great-voyage-at-2022) | 1589 | [IA](https://web.archive.org/web/20221223190520/https://lz233.ac.cn/2022/12/16/great-voyage-at-2022) |
+| [诗酒趁年华——年终回顾（2022） - CLCK's Blog](https://pages.clckblog.space/posts/recap-2022/) | 无 | [IA](https://web.archive.org/web/20221226045922/https://pages.clckblog.space/posts/recap-2022/) |
+| [RECAP2022: 流星雨 - 满五的博客](https://blog.aeilot.top/2022/12/17/recap/) | 389 | [IA](https://web.archive.org/web/20221226045545/https://blog.aeilot.top/2022/12/17/recap/) |
