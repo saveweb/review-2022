@@ -11,10 +11,10 @@
 | [2022年结语 - 王志勇的Blog](http://www.auiou.com/relevant/00002059.jsp) | 1060 | [IA](https://web.archive.org/web/20221224153626/http://www.auiou.com/relevant/00002059.jsp) |
 | [2022年终总结 - 泥蜡的博客 \| Nela Blog](https://cuizehui.github.io/1022/01/09/respensice-cuizehui/) | 无 | [IA](https://web.archive.org/web/20221228093123/https://cuizehui.github.io/1022/01/09/respensice-cuizehui/) |
 | [2022年终总结 – 林林杂语](https://www.xiaozonglin.cn/2022-ending-summary/) | 1194 | [IA](https://web.archive.org/web/20221219131858/https://www.xiaozonglin.cn/2022-ending-summary/) |
-| [2022年终总结 与 2023新年展望 \| YoungForest's blog](https://youngforest.github.io/2022/12/25/2022-summary-and-2023-resolutions/) | 无 | [IA](https://web.archive.org/web/20221228095727/https://youngforest.github.io/2022/12/25/2022-summary-and-2023-resolutions/) |
+| [2022年终总结 与 2023新年展望 \| YoungForest's blog](https://youngforest.github.io/2022/12/25/2022-summary-and-2023-resolutions/) | 1953 | [IA](https://web.archive.org/web/20221228095727/https://youngforest.github.io/2022/12/25/2022-summary-and-2023-resolutions/) |
 | [2022年总结：保持&缓行 - luozhiyun`s Blog](https://www.luozhiyun.com/archives/737) | 432 | [IA](https://web.archive.org/web/20221224154503/https://www.luozhiyun.com/archives/737) |
 | [2022小结 \| Kun 的技术博客](https://www.kunzhang.me/2022新年总结/) | 无 | [IA](https://web.archive.org/web/20221228094309/https://www.kunzhang.me/2022新年总结/) |
-| [2022在日本：我的年度好物分享 - Simon's Blog](https://song.al/haowu2022) | 无 | [IA](https://web.archive.org/web/20221222074031/https://song.al/haowu2022) |
+| [2022在日本：我的年度好物分享 - Simon's Blog](https://song.al/haowu2022) | 1594 | [IA](https://web.archive.org/web/20221222074031/https://song.al/haowu2022) |
 | [当你想成为自己时，没有人是你的竞争对手 \| 2022年终总结 - Camellia Yang](https://www.camelliayang.com/blog/my-year-in-review-2022) | 无 | [IA](https://web.archive.org/web/20221228102124/https://www.camelliayang.com/blog/my-year-in-review-2022) |
 | [二〇二二，不二好吗 - 木木木木木](https://immmmm.com/three-cycle-2022/) | 77 | [IA](https://web.archive.org/web/20221224013840/https://immmmm.com/three-cycle-2022/) |
 | [二零二二年终总结 \| 韦阳的博客](https://godweiyang.com/2022/12/12/2022-conclusion/) | 无 | [IA](https://web.archive.org/web/20221228093949/https://godweiyang.com/2022/12/12/2022-conclusion/) |
@@ -26,7 +26,7 @@
 | [这不过是个开场 - Mr. Will](https://blog.mrwillcom.com/2022/12/19/It-s-just-the-Beginning/) | 1588 | [IA](https://web.archive.org/web/20221226023021/https://blog.mrwillcom.com/2022/12/19/It-s-just-the-Beginning/) |
 | [Great Voyage at 2022 - 鱼类观测研究所](https://lz233.ac.cn/2022/12/16/great-voyage-at-2022) | 1589 | [IA](https://web.archive.org/web/20221223190520/https://lz233.ac.cn/2022/12/16/great-voyage-at-2022) |
 | [RECAP2022: 流星雨 - 满五的博客](https://blog.aeilot.top/2022/12/17/recap/) | 389 | [IA](https://web.archive.org/web/20221226045545/https://blog.aeilot.top/2022/12/17/recap/) |
-| [yyw 的2022 年终总结 - victoryang00’ blog](https://victoryang00.cn/wordpress/2022/12/07/yyw-de2022-nian-zhong-zong-jie/) | 无 | [IA](https://web.archive.org/web/20221212224555/https://victoryang00.cn/wordpress/2022/12/07/yyw-de2022-nian-zhong-zong-jie/) |
+| [yyw 的2022 年终总结 - victoryang00’ blog](https://victoryang00.cn/wordpress/2022/12/07/yyw-de2022-nian-zhong-zong-jie/) | 1597 | [IA](https://web.archive.org/web/20221212224555/https://victoryang00.cn/wordpress/2022/12/07/yyw-de2022-nian-zhong-zong-jie/) |
 | [二〇二二年终总结 - MoyuqLのBlog](https://blog.moyuql.top/index.php/archives/2022.html) | 无 | [IA](http://web.archive.org/web/20221228135109/https://blog.moyuql.top/index.php/archives/2022.html)
 | [2022年终总结 - 可可托海没有海](https://darmau.design/article/2022-summary/) | 198 | [IA](https://web.archive.org/web/20221228143531/https://darmau.design/article/2022-summary/) |
 |[晖洁的2022年终总结 - 老陈の咸鱼日常](https://www.fantanstic.top/2022/12/03/2022-archive/) | 无 | [IA](https://web.archive.org/web/20221228145213/https://www.fantanstic.top/2022/12/03/2022-archive/) |
