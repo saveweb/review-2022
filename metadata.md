@@ -28,3 +28,4 @@
 | [RECAP2022: 流星雨 - 满五的博客](https://blog.aeilot.top/2022/12/17/recap/) | 389 | [IA](https://web.archive.org/web/20221226045545/https://blog.aeilot.top/2022/12/17/recap/) |
 | [yyw 的2022 年终总结 - victoryang00’ blog](https://victoryang00.cn/wordpress/2022/12/07/yyw-de2022-nian-zhong-zong-jie/) | 无 | [IA](https://web.archive.org/web/20221212224555/https://victoryang00.cn/wordpress/2022/12/07/yyw-de2022-nian-zhong-zong-jie/) |
 | [二〇二二年终总结 - MoyuqLのBlog](https://blog.moyuql.top/index.php/archives/2022.html) |  | [IA](http://web.archive.org/web/20221228135109/https://blog.moyuql.top/index.php/archives/2022.html)
+| [2022年终总结 - 可可托海没有海](https://darmau.design/article/2022-summary/) | 198 | [IA](https://web.archive.org/web/20221228143531/https://darmau.design/article/2022-summary/) |
