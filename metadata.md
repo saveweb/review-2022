@@ -31,4 +31,5 @@
 | [2022年终总结 - 可可托海没有海](https://darmau.design/article/2022-summary/) | 198 | [IA](https://web.archive.org/web/20221228143531/https://darmau.design/article/2022-summary/) |
 | [晖洁的2022年终总结 - 老陈の咸鱼日常](https://www.fantanstic.top/2022/12/03/2022-archive/) | 1599 | [IA](https://web.archive.org/web/20221228145213/https://www.fantanstic.top/2022/12/03/2022-archive/) |
 | [2022 年的总结，但是没想好标题（ - 湛蓝的调色板](https://nekoq.eu.org/blog/2022) | 1600 | [IA](https://web.archive.org/web/20221228145435/https://nekoq.eu.org/blog/2022) |
-|[【杂谈】我的2022年终小结 - 哔哔哔哔](https://bebebe.be/archives/37/)| 1601 | [IA](https://web.archive.org/web/20221228153057/https://bebebe.be/archives/37/) |
+| [【杂谈】我的2022年终小结 - 哔哔哔哔](https://bebebe.be/archives/37/) | 1601 | [IA](https://web.archive.org/web/20221228153057/https://bebebe.be/archives/37/) |
+| [2022，确实是一个新的开始 - Project RC](https://stdrc.cc/post/2022/12/27/2022-end/) | 1527 | [IA](https://web.archive.org/web/20221227154237/https://stdrc.cc/post/2022/12/27/2022-end/) |
