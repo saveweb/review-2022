@@ -13,3 +13,6 @@
 | [Great Voyage at 2022 - 鱼类观测研究所](https://lz233.ac.cn/2022/12/16/great-voyage-at-2022) | 1589 | [IA](https://web.archive.org/web/20221223190520/https://lz233.ac.cn/2022/12/16/great-voyage-at-2022) |
 | [诗酒趁年华——年终回顾（2022） - CLCK's Blog](https://pages.clckblog.space/posts/recap-2022/) | 无 | [IA](https://web.archive.org/web/20221226045922/https://pages.clckblog.space/posts/recap-2022/) |
 | [RECAP2022: 流星雨 - 满五的博客](https://blog.aeilot.top/2022/12/17/recap/) | 389 | [IA](https://web.archive.org/web/20221226045545/https://blog.aeilot.top/2022/12/17/recap/) |
+| [2022 年终总结和 2023 年计划 – 不周的博客](https://buzhou.blog/2022/12/27/2022-年终总结和-2023-年计划/) | 无 | [IA](https://web.archive.org/web/20221228091434/https://buzhou.blog/2022/12/27/2022-年终总结和-2023-年计划/) |
+| [2022在日本：我的年度好物分享 - Simon's Blog](https://song.al/haowu2022) | 无 | [IA](https://web.archive.org/web/20221222074031/https://song.al/haowu2022) |
+| [写在 2022 年末 - Lawrence Li](https://leetao.zhubai.love/posts/2217169245723455488) | 无 | [IA](https://web.archive.org/web/20221219135934/https://lawrenceli.me/blog/2022-in-review) |
