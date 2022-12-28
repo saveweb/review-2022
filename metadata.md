@@ -29,5 +29,5 @@
 | [yyw 的2022 年终总结 - victoryang00’ blog](https://victoryang00.cn/wordpress/2022/12/07/yyw-de2022-nian-zhong-zong-jie/) | 1597 | [IA](https://web.archive.org/web/20221212224555/https://victoryang00.cn/wordpress/2022/12/07/yyw-de2022-nian-zhong-zong-jie/) |
 | [二〇二二年终总结 - MoyuqLのBlog](https://blog.moyuql.top/index.php/archives/2022.html) | 1598 | [IA](http://web.archive.org/web/20221228135109/https://blog.moyuql.top/index.php/archives/2022.html)
 | [2022年终总结 - 可可托海没有海](https://darmau.design/article/2022-summary/) | 198 | [IA](https://web.archive.org/web/20221228143531/https://darmau.design/article/2022-summary/) |
-|[晖洁的2022年终总结 - 老陈の咸鱼日常](https://www.fantanstic.top/2022/12/03/2022-archive/) | 无 | [IA](https://web.archive.org/web/20221228145213/https://www.fantanstic.top/2022/12/03/2022-archive/) |
-|[2022 年的总结，但是没想好标题（ - 湛蓝的调色板](https://nekoq.eu.org/blog/2022) | 无 | [IA](https://web.archive.org/web/20221228145435/https://nekoq.eu.org/blog/2022) |
+| [晖洁的2022年终总结 - 老陈の咸鱼日常](https://www.fantanstic.top/2022/12/03/2022-archive/) | 1599 | [IA](https://web.archive.org/web/20221228145213/https://www.fantanstic.top/2022/12/03/2022-archive/) |
+| [2022 年的总结，但是没想好标题（ - 湛蓝的调色板](https://nekoq.eu.org/blog/2022) | 1600 | [IA](https://web.archive.org/web/20221228145435/https://nekoq.eu.org/blog/2022) |
