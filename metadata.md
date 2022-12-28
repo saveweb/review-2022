@@ -27,5 +27,7 @@
 | [Great Voyage at 2022 - 鱼类观测研究所](https://lz233.ac.cn/2022/12/16/great-voyage-at-2022) | 1589 | [IA](https://web.archive.org/web/20221223190520/https://lz233.ac.cn/2022/12/16/great-voyage-at-2022) |
 | [RECAP2022: 流星雨 - 满五的博客](https://blog.aeilot.top/2022/12/17/recap/) | 389 | [IA](https://web.archive.org/web/20221226045545/https://blog.aeilot.top/2022/12/17/recap/) |
 | [yyw 的2022 年终总结 - victoryang00’ blog](https://victoryang00.cn/wordpress/2022/12/07/yyw-de2022-nian-zhong-zong-jie/) | 无 | [IA](https://web.archive.org/web/20221212224555/https://victoryang00.cn/wordpress/2022/12/07/yyw-de2022-nian-zhong-zong-jie/) |
-| [二〇二二年终总结 - MoyuqLのBlog](https://blog.moyuql.top/index.php/archives/2022.html) |  | [IA](http://web.archive.org/web/20221228135109/https://blog.moyuql.top/index.php/archives/2022.html)
+| [二〇二二年终总结 - MoyuqLのBlog](https://blog.moyuql.top/index.php/archives/2022.html) | 无 | [IA](http://web.archive.org/web/20221228135109/https://blog.moyuql.top/index.php/archives/2022.html)
 | [2022年终总结 - 可可托海没有海](https://darmau.design/article/2022-summary/) | 198 | [IA](https://web.archive.org/web/20221228143531/https://darmau.design/article/2022-summary/) |
+|[晖洁的2022年终总结 - 老陈の咸鱼日常](https://www.fantanstic.top/2022/12/03/2022-archive/) | 无 | [IA](https://web.archive.org/web/20221228145213/https://www.fantanstic.top/2022/12/03/2022-archive/) |
+|[2022 年的总结，但是没想好标题（ - 湛蓝的调色板](https://nekoq.eu.org/blog/2022) | 无 | [IA](https://web.archive.org/web/20221228145435/https://nekoq.eu.org/blog/2022) |
