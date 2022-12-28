@@ -33,3 +33,8 @@
 | [2022 年的总结，但是没想好标题（ - 湛蓝的调色板](https://nekoq.eu.org/blog/2022) | 1600 | [IA](https://web.archive.org/web/20221228145435/https://nekoq.eu.org/blog/2022) |
 | [【杂谈】我的2022年终小结 - 哔哔哔哔](https://bebebe.be/archives/37/) | 1601 | [IA](https://web.archive.org/web/20221228153057/https://bebebe.be/archives/37/) |
 | [2022，确实是一个新的开始 - Project RC](https://stdrc.cc/post/2022/12/27/2022-end/) | 1527 | [IA](https://web.archive.org/web/20221227154237/https://stdrc.cc/post/2022/12/27/2022-end/) |
+| [2022 年度游戏总结 - Free Mind](https://freemind.pluskid.org/misc/2022-games/) | 1300 | [IA](https://web.archive.org/web/20221228160738/https://freemind.pluskid.org/misc/2022-games/) |
+| [我的2022 - 构建我的被动收入 ](https://www.bmpi.dev/self/annual-summary/2022/) | 313 | [IA](https://web.archive.org/web/20221228160900/https://www.bmpi.dev/self/annual-summary/2022/) |
+| [2022 年度记录 - YeungYeah 的乱写地](https://scottyeung.top/2022/record-of-2022/) | 265 | [IA](https://web.archive.org/web/20221228160955/https://scottyeung.top/2022/record-of-2022/) |
+| [2022年终总结 - Bing's Blog](https://imcbc.cn/202212/2022-summary/) | 920 | [IA](https://web.archive.org/web/20221228161103/https://imcbc.cn/202212/2022-summary/) |
+| [2022年度总结 - 乱谈府](https://laffitto.xyz/archives/2022-nian-du-zong-jie) | 905 | [IA](https://web.archive.org/web/20221228161238/https://laffitto.xyz/archives/2022-nian-du-zong-jie) |
