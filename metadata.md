@@ -38,3 +38,5 @@
 | [2022 年度记录 - YeungYeah 的乱写地](https://scottyeung.top/2022/record-of-2022/) | 265 | [IA](https://web.archive.org/web/20221228160955/https://scottyeung.top/2022/record-of-2022/) |
 | [2022年终总结 - Bing's Blog](https://imcbc.cn/202212/2022-summary/) | 920 | [IA](https://web.archive.org/web/20221228161103/https://imcbc.cn/202212/2022-summary/) |
 | [2022年度总结 - 乱谈府](https://laffitto.xyz/archives/2022-nian-du-zong-jie) | 905 | [IA](https://web.archive.org/web/20221228161238/https://laffitto.xyz/archives/2022-nian-du-zong-jie) |
+| [不想读坏东西如同不想过坏日子｜2022年度书单十佳 - To the Lighthouse](https://owlswims.com/2022-reading/) | 1602 | [IA](https://web.archive.org/web/20221225062215/https://owlswims.com/2022-reading/) |
+| [不想听坏东西如同不想过坏日子｜2022小众精品播客推荐 - To the Lighthouse](https://owlswims.com/2022-podcasts/) | 1602 | [IA](https://web.archive.org/web/20221225062202/https://owlswims.com/2022-podcasts/) |
