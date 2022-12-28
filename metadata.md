@@ -16,3 +16,15 @@
 | [2022 年终总结和 2023 年计划 – 不周的博客](https://buzhou.blog/2022/12/27/2022-年终总结和-2023-年计划/) | 无 | [IA](https://web.archive.org/web/20221228091434/https://buzhou.blog/2022/12/27/2022-年终总结和-2023-年计划/) |
 | [2022在日本：我的年度好物分享 - Simon's Blog](https://song.al/haowu2022) | 无 | [IA](https://web.archive.org/web/20221222074031/https://song.al/haowu2022) |
 | [写在 2022 年末 - Lawrence Li](https://leetao.zhubai.love/posts/2217169245723455488) | 无 | [IA](https://web.archive.org/web/20221219135934/https://lawrenceli.me/blog/2022-in-review) |
+| [2022年终总结 - 泥蜡的博客 \| Nela Blog](https://cuizehui.github.io/1022/01/09/respensice-cuizehui/) | 无 | [IA](https://web.archive.org/web/20221228093123/https://cuizehui.github.io/1022/01/09/respensice-cuizehui/) |
+| [我的2022年度总结 - 子舒的博客](https://zburu.com/archives/178.html/) | 无 | [IA](https://web.archive.org/web/20221228093826/https://zburu.com/archives/178.html/) |
+| [二零二二年终总结 \| 韦阳的博客](https://godweiyang.com/2022/12/12/2022-conclusion/) | 无 | [IA](https://web.archive.org/web/20221228093949/https://godweiyang.com/2022/12/12/2022-conclusion/) |
+| [2022小结 \| Kun 的技术博客](https://www.kunzhang.me/2022新年总结/) | 无 | [IA](https://web.archive.org/web/20221228094309/https://www.kunzhang.me/2022新年总结/) |
+| [2022 年终总结 - SuemorのBlog](https://www.suemor.com/notes/3) | 无 | [IA](https://web.archive.org/web/20221228095041/https://www.suemor.com/notes/3) |
+| [2022 年终总结及 2023 的计划 - rxliuli blog](https://blog.rxliuli.com/p/48334b653bc9470aae86d06519a907ec/) | 无 | [IA](https://web.archive.org/web/20221220110344/https://blog.rxliuli.com/p/48334b653bc9470aae86d06519a907ec/) |
+| [yyw 的2022 年终总结 - victoryang00’ blog](https://victoryang00.cn/wordpress/2022/12/07/yyw-de2022-nian-zhong-zong-jie/) | 无 | [IA](https://web.archive.org/web/20221212224555/https://victoryang00.cn/wordpress/2022/12/07/yyw-de2022-nian-zhong-zong-jie/) |
+| [2022 年度总结 \| wzyboy’s blog](https://wzyboy.im/post/1498.html) | 无 | [IA](https://web.archive.org/web/20221227055037/https://wzyboy.im/post/1498.html) |
+| [2022年终总结 与 2023新年展望 \| YoungForest's blog](https://youngforest.github.io/2022/12/25/2022-summary-and-2023-resolutions/) | 无 | [IA](https://web.archive.org/web/20221228095727/https://youngforest.github.io/2022/12/25/2022-summary-and-2023-resolutions/) |
+| [2022 年终总结 - Vaayne's Blog](https://www.theboys.tech/2022-summary) | 无 | [IA](https://web.archive.org/web/20221228095848/https://www.theboys.tech/2022-summary) |
+| [2022 Year in Review and the Top 10 Annual Recommendations - Camellia Yang](https://www.camelliayang.com/blog/2022-year-in-review-and-the-top-10-annual-recommendations) | 无 | [IA](https://web.archive.org/web/20221228102123/https://www.camelliayang.com/blog/2022-year-in-review-and-the-top-10-annual-recommendations) |
+| [当你想成为自己时，没有人是你的竞争对手 \| 2022年终总结 - Camellia Yang](https://www.camelliayang.com/blog/my-year-in-review-2022) | 无 | [IA](https://web.archive.org/web/20221228102124/https://www.camelliayang.com/blog/my-year-in-review-2022) |
