@@ -1,11 +1,11 @@
 | Article | Blog\_ID | IA\_Archived |
 | --- | --- | --- |
 | [2022 · 在绝望中前行 - 静かな森](https://innei.ren/notes/136) | 286 | [IA](https://web.archive.org/web/20221225152658/https://innei.ren/notes/136) |
-| [2022 年度总结 \| wzyboy’s blog](https://wzyboy.im/post/1498.html) | 无 | [IA](https://web.archive.org/web/20221227055037/https://wzyboy.im/post/1498.html) |
+| [2022 年度总结 \| wzyboy’s blog](https://wzyboy.im/post/1498.html) | 337 | [IA](https://web.archive.org/web/20221227055037/https://wzyboy.im/post/1498.html) |
 | [2022 年概览 - Elizen](https://elizen.me/posts/2022/12/2022-end/) | 534 | [IA](https://web.archive.org/web/20221224152127/https://elizen.me/posts/2022/12/2022-end/) |
-| [2022 年终总结 - SuemorのBlog](https://www.suemor.com/notes/3) | 无 | [IA](https://web.archive.org/web/20221228095041/https://www.suemor.com/notes/3) |
-| [2022 年终总结 - Vaayne's Blog](https://www.theboys.tech/2022-summary) | 无 | [IA](https://web.archive.org/web/20221228095848/https://www.theboys.tech/2022-summary) |
-| [2022 年终总结和 2023 年计划 – 不周的博客](https://buzhou.blog/2022/12/27/2022-年终总结和-2023-年计划/) | 无 | [IA](https://web.archive.org/web/20221228091434/https://buzhou.blog/2022/12/27/2022-年终总结和-2023-年计划/) |
+| [2022 年终总结 - SuemorのBlog](https://www.suemor.com/notes/3) | 1590 | [IA](https://web.archive.org/web/20221228095041/https://www.suemor.com/notes/3) |
+| [2022 年终总结 - Vaayne's Blog](https://www.theboys.tech/2022-summary) | 1591 | [IA](https://web.archive.org/web/20221228095848/https://www.theboys.tech/2022-summary) |
+| [2022 年终总结和 2023 年计划 – 不周的博客](https://buzhou.blog/2022/12/27/2022-年终总结和-2023-年计划/) | 1119 | [IA](https://web.archive.org/web/20221228091434/https://buzhou.blog/2022/12/27/2022-年终总结和-2023-年计划/) |
 | [2022 年终总结及 2023 的计划 - rxliuli blog](https://blog.rxliuli.com/p/48334b653bc9470aae86d06519a907ec/) | 719 | [IA](https://web.archive.org/web/20221217074724/https://blog.rxliuli.com/p/48334b653bc9470aae86d06519a907ec/) |
 | [2022 Year in Review and the Top 10 Annual Recommendations - Camellia Yang](https://www.camelliayang.com/blog/2022-year-in-review-and-the-top-10-annual-recommendations) | 无 | [IA](https://web.archive.org/web/20221228102123/https://www.camelliayang.com/blog/2022-year-in-review-and-the-top-10-annual-recommendations) |
 | [2022年结语 - 王志勇的Blog](http://www.auiou.com/relevant/00002059.jsp) | 1060 | [IA](https://web.archive.org/web/20221224153626/http://www.auiou.com/relevant/00002059.jsp) |
