@@ -40,3 +40,20 @@
 | [2022年度总结 - 乱谈府](https://laffitto.xyz/archives/2022-nian-du-zong-jie) | 905 | [IA](https://web.archive.org/web/20221228161238/https://laffitto.xyz/archives/2022-nian-du-zong-jie) |
 | [不想读坏东西如同不想过坏日子｜2022年度书单十佳 - To the Lighthouse](https://owlswims.com/2022-reading/) | 1602 | [IA](https://web.archive.org/web/20221225062215/https://owlswims.com/2022-reading/) |
 | [不想听坏东西如同不想过坏日子｜2022小众精品播客推荐 - To the Lighthouse](https://owlswims.com/2022-podcasts/) | 1602 | [IA](https://web.archive.org/web/20221225062202/https://owlswims.com/2022-podcasts/) |
+| [2022 年终总结 - 老高的博客](https://blog.mute-g.com/post/work/summary-2022.html) | 249 | [IA](https://web.archive.org/web/20221230110306/https://blog.mute-g.com/post/work/summary-2022.html) |
+| [2022年的非总结：放弃思考 - 无色墨水](https://wuse.ink/essay/20221230_287.html) | 1400 | [IA](https://web.archive.org/web/20221230110932/https://wuse.ink/essay/20221230_287.html) |
+| [2022年度总结 - 火喵博客･日记本](https://cat.dorcandy.cn/622a5765.html) | 1013 | [IA](https://web.archive.org/web/20221230034430/https://cat.dorcandy.cn/622a5765.html) |
+| [2022年年终总结 – Houge's Madness Blog](https://litterhougelangley.club/blog/2022/12/30/2022%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) | 1146 | [IA](https://web.archive.org/web/20221230111242/https://litterhougelangley.club/blog/2022/12/30/2022年年终总结/) |
+| [杜老师说的 2022 年度总结 - 杜老师说](https://dusays.com/540/) | 1397 | [IA](https://web.archive.org/web/20221230124715/https://dusays.com/540/) |
+| [2022年终总结 - Joe’s Blog](https://hijiangtao.github.io/2022/12/30/Letter-to-2022/) | 269 | [IA](https://web.archive.org/web/20221229171558/https://hijiangtao.github.io/2022/12/30/Letter-to-2022/) |
+| [2022年听过的音乐 - 赫尔米娜及其他](https://hermine.in/2022/1SYH4SC/) | 1190 | [IA](https://web.archive.org/web/20221229132456/https://hermine.in/2022/1SYH4SC/) |
+| [2022 年回顾 – 竹炉山房](https://synyan.cn/t/41442) | 1125 | [IA](https://web.archive.org/web/20221230125233/https://synyan.cn/t/41442) |
+| [告别2022 - iTimothy](https://xiaozhou.net/2022-summary-2022-12-27.html) | 65 | [IA](https://web.archive.org/web/20221229152139/https://xiaozhou.net/2022-summary-2022-12-27.html) |
+| [奔向 20 的我，与我 22 的故事 - Rachel's Blog by Rachel030219](https://blog.rachelt.one/articles/2022-2023/) | 897 | [IA](https://web.archive.org/web/20221230125542/https://blog.rachelt.one/articles/2022-2023/) |
+| [2022 岁末总结 - 苏洋博客](https://soulteary.com/2022/12/29/2022-year-end-summary.html) | 485 | [IA](https://web.archive.org/web/20221230125903/https://soulteary.com/2022/12/29/2022-year-end-summary.html) |
+| [为2022年做一个总结 – 如是乎 · 生活百味随笔](http://rushihu.com/archives/752) | 1524 | [IA](https://web.archive.org/web/20221230130102/http://rushihu.com/archives/752) |
+| [探索之路 - 2022 小记 - Power's Wiki](https://mkdocs.wiki-power.com/preview/%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%B7%AF-2022%E5%B0%8F%E8%AE%B0/) | 803 | [IA](https://web.archive.org/web/20221229174947/https://mkdocs.wiki-power.com/preview/探索之路-2022小记/) |
+| [年终总结2022 - "米随随" s5s5](https://s5s5.me/4114) | 1130 | [IA](https://web.archive.org/web/20221230130857/https://s5s5.me/4114) |
+| [2022年终总结&2023年度计划 - 逆风的小窝](https://blog.smallxu.com/post/617/) | 1368 | [IA](https://web.archive.org/web/20221230131256/https://blog.smallxu.com/post/617/) |
+| [2022年度总结·梦想丰满，现实荒芜 – 一只橙梓一个窝](https://blog.orangii.cn/2022/rewind-2/) | 1365 | [IA](https://web.archive.org/web/20221230131753/https://blog.orangii.cn/2022/rewind-2/) |
+| [个人哔哔: 2022年度总结与全新的大饼 - 贰猹の小窝](https://noionion.top/33884.html) | 1303 | [IA](https://web.archive.org/web/20221228164538/https://noionion.top/33884.html) |
