@@ -64,14 +64,14 @@
 | [2022 年末回顧 - 一座島 - 一座島，一個人，一個世界。](https://island.shaform.com/zh/2022/12/30/2022-year-in-review/) | 461 | [IA](https://web.archive.org/web/20221231053732/https://island.shaform.com/zh/2022/12/30/2022-year-in-review/) |
 | [我的2022年年终总结，乏善可陈的一年 - Tinyfool的中文Blog](https://codechina.org/2022/12/2022-end/) | 359 | [IA](https://web.archive.org/web/20221231053908/https://codechina.org/2022/12/2022-end/) |
 | [我的二零二二 - JiaYin's Life](https://imjiayin.com/4908) | 861 | [IA](https://web.archive.org/web/20221231054224/https://imjiayin.com/4908) |
-| [2022年总结 -ddadaal.me](https://ddadaal.me/articles/summary-for-2022/cn) | 400 | [IA](https://web.archive.org/web/20221231054423/https://ddadaal.me/articles/summary-for-2022/cn) |
+| [2022年总结 - ddadaal.me](https://ddadaal.me/articles/summary-for-2022/cn) | 400 | [IA](https://web.archive.org/web/20221231054423/https://ddadaal.me/articles/summary-for-2022/cn) |
 | [2022年终总结 - Jiajun的编程随想](https://jiajunhuang.com/articles/2022_12_31-hello_2023.md.html) | 146 | [IA](https://web.archive.org/web/20221231054809/https://jiajunhuang.com/articles/2022_12_31-hello_2023.md.html) |
 | [2022年总结 - 玉明-风起于青萍之末](https://xdym11235.com/archives/2022year.html) | 1078 | [IA](https://web.archive.org/web/20221231054925/https://xdym11235.com/archives/2022year.html) |
 | [2022 年度总结 - Debug客栈](https://www.debuginn.cn/7455.html) | 88 | [IA](https://web.archive.org/web/20221231055105/https://www.debuginn.cn/7455.html) |
 | [你好，這是貳〇貳貳最後的筆墨 - 梦幻辰风](https://www.mhcf.net/1015.html) | 1128 | [IA](https://web.archive.org/web/20221231055431/https://www.mhcf.net/1015.html) |
 | [魔幻2022 - ISheep](https://isheep.xlog.app/2022-report) |  | [IA](https://web.archive.org/web/20221231130755/https://isheep.xlog.app/2022-report) |
-| [写给自己 | 年终总结 - Fika](https://fika.ink/2022/12/31/%E5%86%99%E7%BB%99%E8%87%AA%E5%B7%B1%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) | 1607 | [IA](https://web.archive.org/web/20221231130332/https://fika.ink/2022/12/31/%E5%86%99%E7%BB%99%E8%87%AA%E5%B7%B1%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) |
+| [写给自己·年终总结 - Fika](https://fika.ink/2022/12/31/%E5%86%99%E7%BB%99%E8%87%AA%E5%B7%B1%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) | 1607 | [IA](https://web.archive.org/web/20221231130332/https://fika.ink/2022/12/31/%E5%86%99%E7%BB%99%E8%87%AA%E5%B7%B1%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) |
 | [或许是残缺的2022年的总结 - 摇曳的蒲公英🌌](https://blog.lijiakaijun.cyou/posts/end-2.html) | 759 | [IA](https://web.archive.org/web/20221231130538/https://blog.lijiakaijun.cyou/posts/end-2) |
 | [探索之路 - 2022 小记 - Power's Wiki Blog](https://mkdocs.wiki-power.com/blog/2022-12-31-%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%B7%AF-2022%E5%B0%8F%E8%AE%B0/) | 803 | [IA](https://web.archive.org/web/20221231131122/https://mkdocs.wiki-power.com/blog/2022-12-31-%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%B7%AF-2022%E5%B0%8F%E8%AE%B0/) |
-| [[青空之蓝-2022] - 平静 - 青空之蓝](https://blog.ixk.me/post/my-2022-year-end-summary) | 228 | [IA](https://web.archive.org/web/20221231131414/https://blog.ixk.me/post/my-2022-year-end-summary) |
+| [青空之蓝2022·平静 - 青空之蓝](https://blog.ixk.me/post/my-2022-year-end-summary) | 228 | [IA](https://web.archive.org/web/20221231131414/https://blog.ixk.me/post/my-2022-year-end-summary) |
 
