@@ -75,4 +75,4 @@
 | [探索之路 - 2022 小记 - Power's Wiki Blog](https://mkdocs.wiki-power.com/blog/2022-12-31-%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%B7%AF-2022%E5%B0%8F%E8%AE%B0/) | 803 | [IA](https://web.archive.org/web/20221231131122/https://mkdocs.wiki-power.com/blog/2022-12-31-%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%B7%AF-2022%E5%B0%8F%E8%AE%B0/) |
 | [青空之蓝2022·平静 - 青空之蓝](https://blog.ixk.me/post/my-2022-year-end-summary) | 228 | [IA](https://web.archive.org/web/20221231131414/https://blog.ixk.me/post/my-2022-year-end-summary) |
 | [2022年度总结 \| 启涵的博客](https://www.codeqihan.com/post/2022-nian-du-zong-jie/) | | [IA](https://web.archive.org/web/20221231132046/https://www.codeqihan.com/post/2022-nian-du-zong-jie/)
-
+| [令人回味的一年-夏鸢的2022年末总结 - 夏鸢的碎碎念](https://me.owo.today/index.php/2022/12/31/year-end-summary/) | | [IA](https://web.archive.org/web/20221231133802/https://me.owo.today/index.php/2022/12/31/year-end-summary/)
