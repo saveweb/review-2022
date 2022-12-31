@@ -49,9 +49,7 @@
 | [2022年听过的音乐 - 赫尔米娜及其他](https://hermine.in/2022/1SYH4SC/) | 1190 | [IA](https://web.archive.org/web/20221229132456/https://hermine.in/2022/1SYH4SC/) |
 | [2022 年回顾 – 竹炉山房](https://synyan.cn/t/41442) | 1125 | [IA](https://web.archive.org/web/20221230125233/https://synyan.cn/t/41442) |
 | [告别2022 - iTimothy](https://xiaozhou.net/2022-summary-2022-12-27.html) | 65 | [IA](https://web.archive.org/web/20221229152139/https://xiaozhou.net/2022-summary-2022-12-27.html) |
-| [奔向 20 的我，与我 22 的故事 - Rachel's Blog by Rachel030219](https://blog.rachelt.one/articles/2022-2023/) | 897 | [IA](https://web.archive.org/web/20221230125542/https://blog.rachelt.one/articles/2022-2023/) |
 | [2022 岁末总结 - 苏洋博客](https://soulteary.com/2022/12/29/2022-year-end-summary.html) | 485 | [IA](https://web.archive.org/web/20221230125903/https://soulteary.com/2022/12/29/2022-year-end-summary.html) |
-| [为2022年做一个总结 – 如是乎 · 生活百味随笔](http://rushihu.com/archives/752) | 1524 | [IA](https://web.archive.org/web/20221230130102/http://rushihu.com/archives/752) |
 | [探索之路 - 2022 小记 - Power's Wiki](https://mkdocs.wiki-power.com/preview/%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%B7%AF-2022%E5%B0%8F%E8%AE%B0/) | 803 | [IA](https://web.archive.org/web/20221229174947/https://mkdocs.wiki-power.com/preview/探索之路-2022小记/) |
 | [年终总结2022 - "米随随" s5s5](https://s5s5.me/4114) | 1130 | [IA](https://web.archive.org/web/20221230130857/https://s5s5.me/4114) |
 | [2022年终总结&2023年度计划 - 逆风的小窝](https://blog.smallxu.com/post/617/) | 1368 | [IA](https://web.archive.org/web/20221230131256/https://blog.smallxu.com/post/617/) |
@@ -60,3 +58,12 @@
 | [2022 年终总结 - 雪糕](https://lyc.sh/blog/2022-annual-report/) | 1605 | [IA](https://web.archive.org/web/20221231051854/https://lyc.sh/blog/2022-annual-report/) |
 | [Mystery 2022 - MlgmXyysd's Cat Nest](https://www.neko.ink/2022/12/31/mystery-2022/) | 1126 | [IA](https://web.archive.org/web/20221231052340/https://www.neko.ink/2022/12/31/mystery-2022/) |
 | [2022 年终总结 - 高策](https://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2022) | 1606 | [IA](https://web.archive.org/web/20221231052620/https://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2022) |
+| [曦予-2022年年终总结 - 忆梦小站](https://www.onyi.net/archives/437.html) | 913 | [IA](https://web.archive.org/web/20221231053537/https://www.onyi.net/archives/437.html) |
+| [2022 年末回顧 - 一座島 - 一座島，一個人，一個世界。](https://island.shaform.com/zh/2022/12/30/2022-year-in-review/) | 461 | [IA](https://web.archive.org/web/20221231053732/https://island.shaform.com/zh/2022/12/30/2022-year-in-review/) |
+| [我的2022年年终总结，乏善可陈的一年 - Tinyfool的中文Blog](https://codechina.org/2022/12/2022-end/) | 359 | [IA](https://web.archive.org/web/20221231053908/https://codechina.org/2022/12/2022-end/) |
+| [我的二零二二 - JiaYin's Life](https://imjiayin.com/4908) | 861 | [IA](https://web.archive.org/web/20221231054224/https://imjiayin.com/4908) |
+| [2022年总结 -ddadaal.me](https://ddadaal.me/articles/summary-for-2022/cn) | 400 | [IA](https://web.archive.org/web/20221231054423/https://ddadaal.me/articles/summary-for-2022/cn) |
+| [2022年终总结 - Jiajun的编程随想](https://jiajunhuang.com/articles/2022_12_31-hello_2023.md.html) | 146 | [IA](https://web.archive.org/web/20221231054809/https://jiajunhuang.com/articles/2022_12_31-hello_2023.md.html) |
+| [2022年总结 - 玉明-风起于青萍之末](https://xdym11235.com/archives/2022year.html) | 1078 | [IA](https://web.archive.org/web/20221231054925/https://xdym11235.com/archives/2022year.html) |
+| [2022 年度总结 - Debug客栈](https://www.debuginn.cn/7455.html) | 88 | [IA](https://web.archive.org/web/20221231055105/https://www.debuginn.cn/7455.html) |
+| [你好，這是貳〇貳貳最後的筆墨 - 梦幻辰风](https://www.mhcf.net/1015.html) | 1128 | [IA](https://web.archive.org/web/20221231055431/https://www.mhcf.net/1015.html) |
