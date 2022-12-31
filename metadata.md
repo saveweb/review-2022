@@ -69,3 +69,4 @@
 | [2022年总结 - 玉明-风起于青萍之末](https://xdym11235.com/archives/2022year.html) | 1078 | [IA](https://web.archive.org/web/20221231054925/https://xdym11235.com/archives/2022year.html) |
 | [2022 年度总结 - Debug客栈](https://www.debuginn.cn/7455.html) | 88 | [IA](https://web.archive.org/web/20221231055105/https://www.debuginn.cn/7455.html) |
 | [你好，這是貳〇貳貳最後的筆墨 - 梦幻辰风](https://www.mhcf.net/1015.html) | 1128 | [IA](https://web.archive.org/web/20221231055431/https://www.mhcf.net/1015.html) |
+| [魔幻2022 - ISheep](https://isheep.xlog.app/2022-report) |  | [IA](https://web.archive.org/web/20221231130755/https://isheep.xlog.app/2022-report) |
