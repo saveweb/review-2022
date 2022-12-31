@@ -98,3 +98,4 @@
 | [End of 2022 - Yuko's Blog](https://blog.779.moe/archives/20/) | 1609 | [IA](https://web.archive.org/web/20221231141257/https://blog.779.moe/archives/20/) |
 | [再见，2022 —— 我的 2022 年度总结 - 宝硕博客](https://blog.baoshuo.ren/post/goodbye-2022/) | 1029 | [IA](https://web.archive.org/web/20221231143557/https://blog.baoshuo.ren/post/goodbye-2022/)
 | [2022年度总结 - 怠惰のコエ - imba久期 BLOG](https://imba97.cn/archives/759/) | 1585 | [IA](https://web.archive.org/web/20221231161650/https://imba97.cn/archives/759/) |
+| [2022 · 来回往复 - 可愛い松](https://blog.iucky.cn/notes/12) | 1610 | [IA](https://web.archive.org/web/20221231153102/https://blog.iucky.cn/notes/12) |
