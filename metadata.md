@@ -57,3 +57,6 @@
 | [2022年终总结&2023年度计划 - 逆风的小窝](https://blog.smallxu.com/post/617/) | 1368 | [IA](https://web.archive.org/web/20221230131256/https://blog.smallxu.com/post/617/) |
 | [2022年度总结·梦想丰满，现实荒芜 – 一只橙梓一个窝](https://blog.orangii.cn/2022/rewind-2/) | 1365 | [IA](https://web.archive.org/web/20221230131753/https://blog.orangii.cn/2022/rewind-2/) |
 | [个人哔哔: 2022年度总结与全新的大饼 - 贰猹の小窝](https://noionion.top/33884.html) | 1303 | [IA](https://web.archive.org/web/20221228164538/https://noionion.top/33884.html) |
+| [2022 年终总结 - 雪糕](https://lyc.sh/blog/2022-annual-report/) | 1605 | [IA](https://web.archive.org/web/20221231051854/https://lyc.sh/blog/2022-annual-report/) |
+| [Mystery 2022 - MlgmXyysd's Cat Nest](https://www.neko.ink/2022/12/31/mystery-2022/) | 1126 | [IA](https://web.archive.org/web/20221231052340/https://www.neko.ink/2022/12/31/mystery-2022/) |
+| [2022 年终总结 - 高策](https://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2022) | 1606 | [IA](https://web.archive.org/web/20221231052620/https://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2022) |
