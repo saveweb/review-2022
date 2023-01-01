@@ -11,7 +11,7 @@ markdown = """# 2022年终总结
 
 仓库维护/贡献者：
 
-[yzqzss](https://github.com/yzqzss)、[taranakineko](https://github.com/taranakineko)、[cronfox](https://github.com/cronfox)、[gledos]https://github.com/gledos
+[yzqzss](https://github.com/yzqzss)、[taranakineko](https://github.com/taranakineko)、[cronfox](https://github.com/cronfox)、[gledos](https://github.com/gledos)
 
 ---
 
