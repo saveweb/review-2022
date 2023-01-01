@@ -9,6 +9,10 @@ markdown = """# 2022年终总结
 
 **想要添加您的年终总结？请发 Issue 或编辑 metadata.md 发PR（不需要填写博客ID）。**
 
+仓库维护/贡献者：
+
+[yzqzss](https://github.com/yzqzss)、[taranakineko](https://github.com/taranakineko)、[cronfox](https://github.com/cronfox)、[gledos]https://github.com/gledos
+
 ---
 
 ### 相关链接
