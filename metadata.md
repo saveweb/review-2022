@@ -101,3 +101,26 @@
 | [2022 · 来回往复 - 可愛い松](https://blog.iucky.cn/notes/12) | 1610 | [IA](https://web.archive.org/web/20221231153102/https://blog.iucky.cn/notes/12) |
 | [2022年终总结 - PDD's blog](https://ppd0705.github.io/post/2022_sammary/) | 1611 | [IA](https://web.archive.org/web/20230101064333/https://ppd0705.github.io/post/2022_sammary/) |
 | [2022年终总结 - Yunfeng's Simple Blog](https://vra.github.io/2022/12/31/summary-2022/) | 1465 | [IA](https://web.archive.org/web/20230101064907/https://vra.github.io/2022/12/31/summary-2022/)
+| [2022年终总结 - Frank's Weblog](https://nyan.im/p/2022-year-in-review) | 735 | [IA](https://web.archive.org/web/20230101065348/https://nyan.im/p/2022-year-in-review) |
+| [2022 Year in Review - Frank's Weblog](https://nyan.im/p/2022-year-in-review-en) | 735 | [IA](https://web.archive.org/web/20230101065423/https://nyan.im/p/2022-year-in-review-en) |
+| [2022 梦想天空 - Free Mind](http://freemind.pluskid.org/misc/2022-summary) | 1300 | [IA](https://web.archive.org/web/20230101065551/https://freemind.pluskid.org/misc/2022-summary/)|
+| [2022个人年终总结 - yonniye's blog](https://yonniye.com/archives/175.html) | 1467 | [IA](https://web.archive.org/web/20230101065713/https://yonniye.com/archives/175.html) |
+| [我和我的 2022 - Super Blog](https://blog.superpung.cn/rev-2022/) | 1150 | [IA](https://web.archive.org/web/20230101065927/https://blog.superpung.cn/rev-2022/) |
+| [2022 年的总结 - Hi! 上天不?](https://a-wing.top/self/2022/12/31/2022.html) | 1526 | [IA](https://web.archive.org/web/20230101070054/https://a-wing.top/self/2022/12/31/2022) |
+| [2022年终总结 - 离别歌 ](https://www.leavesongs.com/THINK/talk-about-2022.html) | 712 | [IA](https://web.archive.org/web/20230101070405/https://www.leavesongs.com/THINK/talk-about-2022.html) |
+| [2022 年的一些记录 - 默默小屋](http://www.gexiao.me/2022/12/31/summary-2022/) | 1254 | [IA](https://web.archive.org/web/20230101070507/https://www.gexiao.me/2022/12/31/summary-2022/) |
+| [[I Am I 年度简报] – 2022 - Hi, I Am I](https://5ime.cn/hello-2023.html) | 715 | [IA](https://web.archive.org/web/20230101070645/https://5ime.cn/hello-2023.html) |
+| [简短的2022年总结 - 步丈九州的博客](https://www.buzhangjiuzhou.com/index.php/archives/124/) | 1159 | [IA](https://web.archive.org/web/20230101070824/https://www.buzhangjiuzhou.com/index.php/archives/124/) |
+| [写在2022的结尾 - Domon](https://www.domon.cn/end-of-2022/) | 1178 | [IA](https://web.archive.org/web/20230101070906/https://www.domon.cn/end-of-2022/) |
+| [2022年终总结 - 安志合的学习博客](https://chegva.com/5631.html) | 414 | [IA](https://web.archive.org/web/20230101071144/https://chegva.com/5631.html) |
+| [2022 年末回顾 - 迷茫、低谷与改变 - Pseudoyu](https://www.pseudoyu.com/zh/2022/12/31/yearly_review_2022/) | 1458 | [IA](https://web.archive.org/web/20230101071147/https://www.pseudoyu.com/zh/2022/12/31/yearly_review_2022/) |
+| [别了，二〇二二！ - Dejavu's Blog](https://www.dejavu.moe/posts/the-year-summary-of-2022/) | 1112 | [IA](https://web.archive.org/web/20230101071307/https://www.dejavu.moe/posts/the-year-summary-of-2022/) |
+| [2022: 艰难，但充满希望 - Lss233's.Blog()](https://blog.lss233.com/2022-jian-nan-er-you-chong-man-xi-wang/) | 902 | [IA](https://web.archive.org/web/20230101071446/https://blog.lss233.com/2022-jian-nan-er-you-chong-man-xi-wang/) |
+| [2022年个人总结 - 小赖子的英国生活和资讯](https://justyy.com/archives/47781) | 793 | [IA](https://web.archive.org/web/20230101071547/https://justyy.com/archives/47781) |
+| [2022我最大的收获 - Life Sailor](https://www.lifesailor.me/archives/2798.html) | 876 | [IA](https://web.archive.org/web/20230101071814/https://www.lifesailor.me/archives/2798.html) |
+| [2022年年终总结 - 7gugu's Blog](https://7gugu.com/index.php/2022/12/31/2022%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) | 1110 | [IA](https://web.archive.org/web/20230101072029/https://7gugu.com/index.php/2022/12/31/2022%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) |
+| [我的 2022 - 251's Blog.](https://blog.251.sh/oh-my-2022) | 552 | [IA](https://web.archive.org/web/20230101072151/https://blog.251.sh/oh-my-2022) |
+| [2022 年年终总结投资篇 - forecho 的独立博客](https://blog.forecho.com/2022-review-investment.html) | 92 | [IA](https://web.archive.org/web/20230101072825/https://blog.forecho.com/2022-review-investment.html) |
+| [2023 新年快乐！ - Anillc's Blog](https://anillc.cn/2023/01/01/happy-new-year-2/) | 1573 | [IA](https://web.archive.org/web/20230101072642/https://anillc.cn/2023/01/01/happy-new-year-2/)
+| [我的2022年年度总结 - Eternal digital memory - 永恒的数字记忆](https://hee.ink/p/%E6%88%91%E7%9A%842022%E5%B9%B4%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) | 980 | [IA](https://web.archive.org/web/20230101072551/https://hee.ink/p/%E6%88%91%E7%9A%842022%E5%B9%B4%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) |
+| [2022年终总结 —— 世界根本还没开场啊 - CronfoxLabs](https://cronfox.2434.me/article/2022Final) | 1603 | [IA](https://web.archive.org/web/20230101072308/https://cronfox.2434.me/article/2022Final) |
