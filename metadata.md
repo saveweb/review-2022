@@ -99,3 +99,5 @@
 | [再见，2022 —— 我的 2022 年度总结 - 宝硕博客](https://blog.baoshuo.ren/post/goodbye-2022/) | 1029 | [IA](https://web.archive.org/web/20221231143557/https://blog.baoshuo.ren/post/goodbye-2022/)
 | [2022年度总结 - 怠惰のコエ - imba久期 BLOG](https://imba97.cn/archives/759/) | 1585 | [IA](https://web.archive.org/web/20221231161650/https://imba97.cn/archives/759/) |
 | [2022 · 来回往复 - 可愛い松](https://blog.iucky.cn/notes/12) | 1610 | [IA](https://web.archive.org/web/20221231153102/https://blog.iucky.cn/notes/12) |
+| [2022年终总结 - PDD's blog](https://ppd0705.github.io/post/2022_sammary/) | 1611 | [IA](https://web.archive.org/web/20230101064333/https://ppd0705.github.io/post/2022_sammary/) |
+| [2022年终总结 - Yunfeng's Simple Blog](https://vra.github.io/2022/12/31/summary-2022/) | 1465 | [IA](https://web.archive.org/web/20230101064907/https://vra.github.io/2022/12/31/summary-2022/)
