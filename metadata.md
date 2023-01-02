@@ -125,3 +125,4 @@
 | [我的2022年年度总结 - Eternal digital memory - 永恒的数字记忆](https://hee.ink/p/%E6%88%91%E7%9A%842022%E5%B9%B4%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) | 980 | [IA](https://web.archive.org/web/20230101072551/https://hee.ink/p/%E6%88%91%E7%9A%842022%E5%B9%B4%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) |
 | [2022年终总结 —— 世界根本还没开场啊 - CronfoxLabs](https://cronfox.2434.me/article/2022Final) | 1603 | [IA](https://web.archive.org/web/20230101072308/https://cronfox.2434.me/article/2022Final) |
 | [走过苦难——2022年终总结 - Tony.Lin 的小屋](https://tonylin1026.live/post/NUktH6el2/) | 1613 | [IA](https://web.archive.org/web/20230101092638/https://tonylin1026.live/post/NUktH6el2/) |
+| [我的2022](https://wiki.eryajf.net/pages/813b7b/) |  |  |
