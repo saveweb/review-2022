@@ -52,7 +52,6 @@
 | [奔向 20 的我，与我 22 的故事 - Rachel's Blog by Rachel030219](https://blog.rachelt.one/articles/2022-2023/) | 897 | [IA](https://web.archive.org/web/20221230125542/https://blog.rachelt.one/articles/2022-2023/) |
 | [2022 岁末总结 - 苏洋博客](https://soulteary.com/2022/12/29/2022-year-end-summary.html) | 485 | [IA](https://web.archive.org/web/20221230125903/https://soulteary.com/2022/12/29/2022-year-end-summary.html) |
 | [为2022年做一个总结 – 如是乎 · 生活百味随笔](http://rushihu.com/archives/752) | 1524 | [IA](https://web.archive.org/web/20221230130102/http://rushihu.com/archives/752) |
-| [探索之路 - 2022 小记 - Power's Wiki](https://mkdocs.wiki-power.com/preview/探索之路-2022小记/) | 803 | [IA](https://web.archive.org/web/20221229174947/https://mkdocs.wiki-power.com/preview/探索之路-2022小记/) |
 | [年终总结2022 - "米随随" s5s5](https://s5s5.me/4114) | 1130 | [IA](https://web.archive.org/web/20221230130857/https://s5s5.me/4114) |
 | [2022年终总结&2023年度计划 - 逆风的小窝](https://blog.smallxu.com/post/617/) | 1368 | [IA](https://web.archive.org/web/20221230131256/https://blog.smallxu.com/post/617/) |
 | [2022年度总结·梦想丰满，现实荒芜 – 一只橙梓一个窝](https://blog.orangii.cn/2022/rewind-2/) | 1365 | [IA](https://web.archive.org/web/20221230131753/https://blog.orangii.cn/2022/rewind-2/) |
