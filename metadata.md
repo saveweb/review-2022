@@ -130,3 +130,4 @@
 | [云开疫散，来日可期｜2022年度总结报告 - Lzy's Life](https://lzy20021010.top/2022-to-2023/) | Null | [IA](https://web.archive.org/web/20221231224116/https://lzy20021010.top/2022-to-2023/) |
 | [2022年终总结-ek1ng's blog](https://www.ek1ng.com/再见2022_继续前行.html) | Null | [IA](https://web.archive.org/web/20230102072717/https://www.ek1ng.com/再见2022_继续前行.html) |
 | [正是江南好风景，落花时节又逢君：小陶本人的2022年度总结 - 陶小桃Blog](https://www.52txr.cn/2022/tao2022.html) | Null | [AT](https://archive.ph/jRjYQ) |
+| [2022 年年终总结 - This Cute World](https://thiscute.world/posts/2022-summary/) | Null | https://web.archive.org/web/20230102104926/https://thiscute.world/posts/2022-summary/ |
