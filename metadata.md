@@ -73,7 +73,7 @@
 | [或许是残缺的2022年的总结 - 摇曳的蒲公英🌌](https://blog.lijiakaijun.cyou/posts/end-2.html) | 759 | [IA](https://web.archive.org/web/20221231130538/https://blog.lijiakaijun.cyou/posts/end-2) |
 | [探索之路 - 2022 小记 - Power's Wiki Blog](https://mkdocs.wiki-power.com/blog/2022-12-31-探索之路-2022小记/) | 803 | [IA](https://web.archive.org/web/20221231131122/https://mkdocs.wiki-power.com/blog/2022-12-31-探索之路-2022小记/) |
 | [青空之蓝2022·平静 - 青空之蓝](https://blog.ixk.me/post/my-2022-year-end-summary) | 228 | [IA](https://web.archive.org/web/20221231131414/https://blog.ixk.me/post/my-2022-year-end-summary) |
-| [2022年度总结 \| 启涵的博客](https://www.codeqihan.com/post/2022-nian-du-zong-jie/) | Null | [IA](https://web.archive.org/web/20221231132046/https://www.codeqihan.com/post/2022-nian-du-zong-jie/)
+| [2022年度总结 - 启涵的博客](https://www.codeqihan.com/post/2022-nian-du-zong-jie/) | Null | [IA](https://web.archive.org/web/20221231132046/https://www.codeqihan.com/post/2022-nian-du-zong-jie/)
 | [令人回味的一年-夏鸢的2022年末总结 - 夏鸢的碎碎念](https://me.owo.today/index.php/2022/12/31/year-end-summary/) | Null | [IA](https://web.archive.org/web/20221231133802/https://me.owo.today/index.php/2022/12/31/year-end-summary/)
 | [年终总结 - 不断拉扯的 2022 - Zwh's Blog](https://zwh.moe/posts/default/review-2022) | 918 | [IA](https://web.archive.org/web/20221231134345/https://zwh.moe/posts/default/review-2022) |
 | [2022年总结 - informal](http://informal.top/2022/12/31/2022年总结.html) | 1452 | [IA](https://web.archive.org/web/20221231134652/http://informal.top/2022/12/31/2022年总结.html)
@@ -132,3 +132,15 @@
 | [2022年终总结-ek1ng's blog](https://www.ek1ng.com/再见2022_继续前行.html) | Null | [IA](https://web.archive.org/web/20230102072717/https://www.ek1ng.com/再见2022_继续前行.html) |
 | [正是江南好风景，落花时节又逢君：小陶本人的2022年度总结 - 陶小桃Blog](https://www.52txr.cn/2022/tao2022.html) | Null | [AT](https://archive.ph/jRjYQ) |
 | [2022 年年终总结 - This Cute World](https://thiscute.world/posts/2022-summary/) | Null | [IA](https://web.archive.org/web/20230102104926/https://thiscute.world/posts/2022-summary/) |
+| [2022 跑步总结 - Conge](https://conge.livingwithfcs.org/2023/01/01/Review-2022-running/) | 1499 | [IA](https://web.archive.org/web/20230102082417/https://conge.livingwithfcs.org/2023/01/01/Review-2022-running/) |
+| [请回答 二〇二二 - 叶星优酸乳](https://weiyexing.ml/posts/review-2022/) | 689 | [IA](https://web.archive.org/web/20230102142646/https://weiyexing.ml/posts/review-2022/) |
+| [小树的 2022 年终总结 - 一颗小树](https://yeshu.cloud/posts/da712197/) | 1131 | [IA](https://web.archive.org/web/20230102034508/https://yeshu.cloud/posts/da712197/) |
+| [2022 年终总结 - 咸糖 - 自律者自由](https://vim0.com/post/2022/) | 894 | [IA](https://web.archive.org/web/20230102092127/https://vim0.com/post/2022/) |
+| [2023 – 不亦乐乎](https://lms.im/talk/2023.html) | 1547 | [IA](https://web.archive.org/web/20230102143729/https://lms.im/talk/2023.html) |
+| [2023之革旧迎新 - 夜未央](https://www.savouer.com/7543.html) | 1399 | [IA](https://web.archive.org/web/20230102125251/https://www.savouer.com/7543.html) |
+| [2022，平安喜乐 - Airing 的小屋](https://me.ursb.me/archives/2022.html) | 1441 | [IA](https://web.archive.org/web/20230102110928/https://me.ursb.me/archives/2022.html) |
+| [写在 2023 的开头 - 考拉咖啡馆](https://blog.guhub.cn/essays/2023-new-year-greetings.html) | 489 | [IA](https://web.archive.org/web/20230101164451/https://blog.guhub.cn/essays/2023-new-year-greetings.html) |
+| [2022（完） - 重归混沌的BLOG](https://blog.gotocoding.com/archives/1793) | 408 | [IA](https://web.archive.org/web/20230101132434/https://blog.gotocoding.com/archives/1793) |
+| [2022年终总结与2023新年愿望 - 蓝卡](https://www.lanka.cn/2023-1_4707.html) | 216 | [IA](https://web.archive.org/web/20230101040602/https://www.lanka.cn/2023-1_4707.html) |
+| [2022 年终总结 - 老兄de博客](https://www.moec.top/archives/2912) | 1349 | [IA](https://web.archive.org/web/20230101183408/https://www.moec.top/archives/2912) |
+| [2022 年终总结 - ypingcn's blog - 相信万物逢时而美](https://blog.ypingcn.com/2023/01/01/annual-summary-2022/) | 1162 | [IA](https://web.archive.org/web/20230101183800/https://blog.ypingcn.com/2023/01/01/annual-summary-2022/) |
