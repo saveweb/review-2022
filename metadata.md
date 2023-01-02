@@ -162,3 +162,4 @@
 | [2022 年的总结 - Blog of Endle](https://blog.zhenbo.pro/2022/12/31/2022-year-review/) | 1319 | [IA](https://web.archive.org/web/20230101012346/https://blog.zhenbo.pro/2022/12/31/2022-year-review/) |
 | [我的 2022 - Panda Home](https://old-panda.com/2022/12/31/my-2022/) | 214 | [IA](https://web.archive.org/web/20230102075551/https://old-panda.com/2022/12/31/my-2022/) |
 | [Happy New Year – Richie的时光机](https://www.riichiie.net/2023/01/happy-new-year/) | 738 | [IA](https://web.archive.org/web/20230101055434/https://www.riichiie.net/2023/01/happy-new-year/) |
+| [与光——我的二零二二年 - DGideas' Blog](https://dgideas.net/2023/my-2022/) | 1003 | [IA](https://web.archive.org/web/20230102141434/https://dgideas.net/2023/my-2022/) |
