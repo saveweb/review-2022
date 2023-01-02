@@ -127,3 +127,4 @@
 | [博客2022年度数据统计和排行-月光博客](https://www.williamlong.info/archives/7037.html) | Null | [IA](https://web.archive.org/web/20230102062134/https://www.williamlong.info/archives/7037.html) |
 | [月光博客2022年推荐阅读文章-月光博客](https://www.williamlong.info/archives/7039.html) | Null | [IA](https://web.archive.org/web/20230102062008/https://www.williamlong.info/archives/7039.html) |
 | [博客2022年度流量统计分析-月光博客](https://www.williamlong.info/archives/7038.html) | Null | [IA](https://web.archive.org/web/20230102061924/https://www.williamlong.info/archives/7038.html) |
+| [云开疫散，来日可期｜2022年度总结报告 - Lzy's Life](https://lzy20021010.top/2022-to-2023/) | Null | [IA](https://web.archive.org/web/20221231224116/https://lzy20021010.top/2022-to-2023/) |
