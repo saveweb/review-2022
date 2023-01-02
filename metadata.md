@@ -124,3 +124,6 @@
 | [我的2022年年度总结 - Eternal digital memory - 永恒的数字记忆](https://hee.ink/p/我的2022年年度总结/) | 980 | [IA](https://web.archive.org/web/20230101072551/https://hee.ink/p/我的2022年年度总结/) |
 | [2022年终总结 —— 世界根本还没开场啊 - CronfoxLabs](https://cronfox.2434.me/article/2022Final) | 1603 | [IA](https://web.archive.org/web/20230101072308/https://cronfox.2434.me/article/2022Final) |
 | [走过苦难——2022年终总结 - Tony.Lin 的小屋](https://tonylin1026.live/post/NUktH6el2/) | 1613 | [IA](https://web.archive.org/web/20230101092638/https://tonylin1026.live/post/NUktH6el2/) |
+| [博客2022年度数据统计和排行-月光博客](https://www.williamlong.info/archives/7037.html) |无| [IA](https://web.archive.org/web/20230102062134/https://www.williamlong.info/archives/7037.html) |
+| [月光博客2022年推荐阅读文章-月光博客](https://www.williamlong.info/archives/7039.html) |无| [IA](https://web.archive.org/web/20230102062008/https://www.williamlong.info/archives/7039.html) |
+| [博客2022年度流量统计分析-月光博客](https://www.williamlong.info/archives/7038.html) |无| [IA](https://web.archive.org/web/20230102061924/https://www.williamlong.info/archives/7038.html) |
