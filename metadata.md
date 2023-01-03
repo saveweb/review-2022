@@ -163,3 +163,5 @@
 | [我的 2022 - Panda Home](https://old-panda.com/2022/12/31/my-2022/) | 214 | [IA](https://web.archive.org/web/20230102075551/https://old-panda.com/2022/12/31/my-2022/) |
 | [Happy New Year – Richie的时光机](https://www.riichiie.net/2023/01/happy-new-year/) | 738 | [IA](https://web.archive.org/web/20230101055434/https://www.riichiie.net/2023/01/happy-new-year/) |
 | [与光——我的二零二二年 - DGideas' Blog](https://dgideas.net/2023/my-2022/) | 1003 | [IA](https://web.archive.org/web/20230102141434/https://dgideas.net/2023/my-2022/) |
+| [2022 年度总结 &#124; Hubert's Blog](https://trle5.xyz/talk/page112) |  | [IA](https://web.archive.org/web/20230103221322/https://trle5.xyz/talk/page112/) |
+
