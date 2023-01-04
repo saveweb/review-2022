@@ -167,3 +167,4 @@
 | [2022 年度总结 &#124; Hubert's Blog](https://trle5.xyz/talk/page112) | 1586 | [IA](https://web.archive.org/web/20230103221322/https://trle5.xyz/talk/page112/) |
 | [我的2022 - 天行者YANG Blog](https://www.skywalkerai.com/my2022) | 1616 | [IA](https://web.archive.org/web/20230104004710/https://www.skywalkerai.com/my2022) |
 | [2022 - 追赶风车](https://mikusugar.me/2022/12/31/2022/) | Null | [IA](https://web.archive.org/web/20230104004815/https://mikusugar.me/2022/12/31/2022/) |
+| [再见，2022 - Nemo](https://nemo.cool/939.html) | Null | [IA](https://web.archive.org/web/20230104063844/https://nemo.cool/939.html) |
