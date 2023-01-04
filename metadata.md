@@ -1,5 +1,6 @@
 | Article | Blog\_ID | IA\_Archived |
 | --- | --- | --- |
+| [2022 年终总结 - Ginta](https://ginta.top/2023/01/03/2022%E5%B9%B4%E6%80%BB%E7%BB%93/) |  | [IA](https://web.archive.org/web/20230104145456/https://ginta.top/2023/01/03/2022%E5%B9%B4%E6%80%BB%E7%BB%93/) |
 | [2022 · 在绝望中前行 - 静かな森](https://innei.ren/notes/136) | 286 | [IA](https://web.archive.org/web/20221225152658/https://innei.ren/notes/136) |
 | [2022 年度总结 - wzyboy’s blog](https://wzyboy.im/post/1498.html) | 337 | [IA](https://web.archive.org/web/20221227055037/https://wzyboy.im/post/1498.html) |
 | [2022 年概览 - Elizen](https://elizen.me/posts/2022/12/2022-end/) | 534 | [IA](https://web.archive.org/web/20221224152127/https://elizen.me/posts/2022/12/2022-end/) |
