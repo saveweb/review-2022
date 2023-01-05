@@ -168,3 +168,4 @@
 | [我的2022 - 天行者YANG Blog](https://www.skywalkerai.com/my2022) | 1616 | [IA](https://web.archive.org/web/20230104004710/https://www.skywalkerai.com/my2022) |
 | [2022 - 追赶风车](https://mikusugar.me/2022/12/31/2022/) | Null | [IA](https://web.archive.org/web/20230104004815/https://mikusugar.me/2022/12/31/2022/) |
 | [再见，2022 - Nemo](https://nemo.cool/939.html) | Null | [IA](https://web.archive.org/web/20230104063844/https://nemo.cool/939.html) |
+| [2022年度总结 - Lenger的后花园](https://spookerv5.github.io/2022/12/29/2022%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) | 1617 | [IA](https://web.archive.org/web/20230105030145/https://spookerv5.github.io/2022/12/29/2022%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) |
