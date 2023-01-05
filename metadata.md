@@ -169,3 +169,10 @@
 | [2022 - 追赶风车](https://mikusugar.me/2022/12/31/2022/) | Null | [IA](https://web.archive.org/web/20230104004815/https://mikusugar.me/2022/12/31/2022/) |
 | [再见，2022 - Nemo](https://nemo.cool/939.html) | Null | [IA](https://web.archive.org/web/20230104063844/https://nemo.cool/939.html) |
 | [2022年度总结 - Lenger的后花园](https://spookerv5.github.io/2022/12/29/2022%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) | 1617 | [IA](https://web.archive.org/web/20230105030145/https://spookerv5.github.io/2022/12/29/2022%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) |
+| [2022 年度总结 - Hubert's Blog](https://trle5.xyz/talk/page112) | 1586 | [IA](https://web.archive.org/web/20230105030557/https://trle5.xyz/talk/page112/) |
+| [2022，使用房车这一年 - 运维咖啡吧](https://blog.ops-coffee.cn/s/c4UPSpHCGqKsONeotn3LLw) | 1461 | [IA](https://web.archive.org/web/20230105031052/https://blog.ops-coffee.cn/s/c4upsphcgqksoneotn3llw) |
+| [2022 年度总结 - ZDDHUB](https://www.zddhub.com/2022/12/31/w52-2022-summary.html) | 1149 | [IA](https://web.archive.org/web/20230105031417/https://zddhub.com/2022/12/31/w52-2022-summary.html) |
+| [2022 年 12 月总结 (2022 年终总结？) - Cubik的小站](https://www.cubik65536.top/2022-12-MonthJournal/) | 1466 | [IA](https://web.archive.org/web/20230105031518/https://www.cubik65536.top/2022-12-MonthJournal/) |
+| [2022年终总结 - Eason Yang's Blog](https://easonyang.com/posts/a-recap-of-2022/) | 944 | [IA](https://web.archive.org/web/20230105031650/https://easonyang.com/posts/a-recap-of-2022/) |
+| [我的 2022 - 程序员的喵](http://catcoding.me/p/2022-summary/) | 1493 | [IA](https://web.archive.org/web/20230105031846/https://catcoding.me/p/2022-summary/) |
+| [2022 总结 & 2023 目标 - ./kwaa.dev ](https://kwaa.dev/2023) | 1561 | [IA](https://web.archive.org/web/20230105031939/https://kwaa.dev/2023) |
