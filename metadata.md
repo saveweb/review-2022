@@ -177,4 +177,4 @@
 | [我的 2022 - 程序员的喵](http://catcoding.me/p/2022-summary/) | 1493 | [IA](https://web.archive.org/web/20230105031846/https://catcoding.me/p/2022-summary/) |
 | [2022 总结 & 2023 目标 - ./kwaa.dev ](https://kwaa.dev/2023) | 1561 | [IA](https://web.archive.org/web/20230105031939/https://kwaa.dev/2023) |
 | [关于2022 - akearer's blog](https://akearer.top/post/summary-of-2022/) | 1619 | [IA](https://web.archive.org/web/20230107012256/https://akearer.top/post/summary-of-2022/) |
-| [2022总结 - TingChieh阿丁](https://blog.aisaka.cc/archives/99/) | 1620 | [IA](https://web.archive.org/web/20230108154053/https://blog.aisaka.cc/archives/99/) |
+| [2022总结 - TingChieh阿丁](https://blog.aisaka.cc/archives/99/) | 3 | [IA](https://web.archive.org/web/20230108154053/https://blog.aisaka.cc/archives/99/) |
