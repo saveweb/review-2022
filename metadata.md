@@ -178,3 +178,5 @@
 | [2022 总结 & 2023 目标 - ./kwaa.dev ](https://kwaa.dev/2023) | 1561 | [IA](https://web.archive.org/web/20230105031939/https://kwaa.dev/2023) |
 | [关于2022 - akearer's blog](https://akearer.top/post/summary-of-2022/) | 1619 | [IA](https://web.archive.org/web/20230107012256/https://akearer.top/post/summary-of-2022/) |
 | [2022总结 - TingChieh阿丁](https://blog.aisaka.cc/archives/99/) | 3 | [IA](https://web.archive.org/web/20230108154053/https://blog.aisaka.cc/archives/99/) |
+| [2022年终总结与展望 - 一蓑烟雨](https://easyf12.top/posts/7836da9e/) | Null | [IA](https://web.archive.org/web/20230110060206/https://easyf12.top/posts/7836da9e/) |
+| [2022 年，从年初就开始写的年终总结 - 程序员充电站](https://itcharge.cn/life/2022-year-end-summary/) | Null | [IA](https://web.archive.org/web/20230110060310/https://itcharge.cn/life/2022-year-end-summary/) |
