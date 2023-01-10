@@ -197,3 +197,7 @@
 | [2022 年终总结 —— 充实和迷茫 - Muniao's blog](https://www.qtmuniao.com/2023/01/05/2022-summary/) | 7 | [IA](https://web.archive.org/web/20230110063257/https://www.qtmuniao.com/2023/01/05/2022-summary/) |
 | [2022的混乱和坚持 2023的困难和勇敢 - 思考问题的熊](https://kaopubear.top/blog/2023-01-04-my2022/) | 734 | [IA](https://web.archive.org/web/20230110063339/https://kaopubear.top/blog/2023-01-04-my2022/) |
 | [2022流水账 - 十贰的小窝](https://blog.shier.eu.org/posts/15084.html) | 1426 | [IA](https://web.archive.org/web/20230110063519/https://blog.shier.eu.org/posts/15084.html) |
+| [2022年年度总结 - 安和Blog](https://nekocoffee.com/703.html) | 1622 | [IA](https://web.archive.org/web/20230110064409/https://nekocoffee.com/703.html) |
+| [我的 2022  - Kevin Huang](https://kevinh.wang/2022/) | 1623 | [IA](https://web.archive.org/web/20230110064511/https://kevinh.wang/2022/) |
+| [2022年度总结 - UMR's Blog](https://www.umr.wiki/2022/12/31/54.html) | 1624 | [IA](https://web.archive.org/web/20230110064659/https://www.umr.wiki/2022/12/31/54.html) |
+| [2022 年末总结 - Cynosura's Blog](https://blog.cynosura.one/2022/12/2022-year-end-summary/) | Null | [IA](https://web.archive.org/web/20230110065317/https://blog.cynosura.one/2022/12/2022-year-end-summary/) |
