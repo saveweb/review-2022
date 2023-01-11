@@ -201,3 +201,4 @@
 | [我的 2022  - Kevin Huang](https://kevinh.wang/2022/) | 1623 | [IA](https://web.archive.org/web/20230110064511/https://kevinh.wang/2022/) |
 | [2022年度总结 - UMR's Blog](https://www.umr.wiki/2022/12/31/54.html) | 1624 | [IA](https://web.archive.org/web/20230110064659/https://www.umr.wiki/2022/12/31/54.html) |
 | [2022 年末总结 - Cynosura's Blog](https://blog.cynosura.one/2022/12/2022-year-end-summary/) | Null | [IA](https://web.archive.org/web/20230110065317/https://blog.cynosura.one/2022/12/2022-year-end-summary/) |
+| [2022 年终总结 - Ursa Major](https://elfile4138.moe/2022/12/2022-Recap/) | 1625 | [IA](https://web.archive.org/web/20230111130807/https://elfile4138.moe/2022/12/2022-Recap/) |
