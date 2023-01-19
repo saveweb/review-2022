@@ -204,3 +204,6 @@
 | [2022 年终总结 - Ursa Major](https://elfile4138.moe/2022/12/2022-Recap/) | 1625 | [IA](https://web.archive.org/web/20230111130807/https://elfile4138.moe/2022/12/2022-Recap/) |
 | [2022 - 哲学&电气马戏团](https://stihub.notion.site/2022-9d32ca2f67e84132aa78ad5c6cce1f97) | Null | [IA](https://web.archive.org/web/20230114075919/https://stihub.notion.site/2022-1a016564a1cb433ab51e4b0419acaaa0) |
 | [2022年终总结 - 编码记录](https://liudon.com/posts/review-2022/) | 1626 | [IA](https://web.archive.org/web/20230114075759/https://liudon.com/posts/review-2022/) |
+| [2022 摆 - KirimaSharo's Blog](https://www.kirimasharo.com/archives/2022.html) | 1348 | [IA](https://web.archive.org/web/20230119162209/https://www.kirimasharo.com/archives/2022.html) |
+| [2022 照片篇 - KirimaSharo's Blog](https://www.kirimasharo.com/archives/2022_photo.html) | 1348 | [IA](https://web.archive.org/web/20230119162356/https://www.kirimasharo.com/archives/2022_photo.html) |
+| [2022的一些记录和自己的想法 - Revincx的小破站](https://blog.revincx.icu/posts/mud-2022/) | 1352 | [IA](https://web.archive.org/web/20230119162600/https://blog.revincx.icu/posts/mud-2022/) |
