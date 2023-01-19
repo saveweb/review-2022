@@ -207,3 +207,8 @@
 | [2022 摆 - KirimaSharo's Blog](https://www.kirimasharo.com/archives/2022.html) | 1348 | [IA](https://web.archive.org/web/20230119162209/https://www.kirimasharo.com/archives/2022.html) |
 | [2022 照片篇 - KirimaSharo's Blog](https://www.kirimasharo.com/archives/2022_photo.html) | 1348 | [IA](https://web.archive.org/web/20230119162356/https://www.kirimasharo.com/archives/2022_photo.html) |
 | [2022的一些记录和自己的想法 - Revincx的小破站](https://blog.revincx.icu/posts/mud-2022/) | 1352 | [IA](https://web.archive.org/web/20230119162600/https://blog.revincx.icu/posts/mud-2022/) |
+| [人生没有无用的经历 - 2022年终总结 - 查令十字街 84 号](https://www.javis.me/post/ri-chang/ren-sheng-mei-you-wu-yong-de-jing-li-%7C-2022nian-zhong-zong-jie) | 1127 | [IA](https://web.archive.org/web/20230119153555/https://www.javis.me/post/ri-chang/ren-sheng-mei-you-wu-yong-de-jing-li-%7C-2022nian-zhong-zong-jie) |
+| [我的2022 - 青箬笠](https://qingruoli.com/1943.html) | 833 | [IA](https://web.archive.org/web/20230119155221/https://qingruoli.com/1943.html) |
+| [我走过的2022 – 林海草原](https://lhcy.org/archives/189.html) | 658 | Blocked |
+| [2022 年终总结 - Nicksxs's Blog](https://nicksxs.me/2023/01/15/2022-%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) | 153 | [IA](https://web.archive.org/web/20230117135626/https://nicksxs.me/2023/01/15/2022-年终总结/) |
+| [2022 年终总结 - Yuexun's Blog](https://www.yuexun.me/blog/2022-summary) | 213 | [IA](https://web.archive.org/web/20230119162408/https://www.yuexun.me/blog/2022-summary) |
