@@ -174,7 +174,7 @@
 | [2022 年 12 月总结 (2022 年终总结？) - Cubik的小站](https://www.cubik65536.top/2022-12-MonthJournal/) | 1466 | [IA](https://web.archive.org/web/20230105031518/https://www.cubik65536.top/2022-12-MonthJournal/) |
 | [2022年终总结 - Eason Yang's Blog](https://easonyang.com/posts/a-recap-of-2022/) | 944 | [IA](https://web.archive.org/web/20230105031650/https://easonyang.com/posts/a-recap-of-2022/) |
 | [我的 2022 - 程序员的喵](http://catcoding.me/p/2022-summary/) | 1493 | [IA](https://web.archive.org/web/20230105031846/https://catcoding.me/p/2022-summary/) |
-| [2022 总结 & 2023 目标 - ./kwaa.dev ](https://kwaa.dev/2023) | 1561 | [IA](https://web.archive.org/web/20230105031939/https://kwaa.dev/2023) |
+| [2022 总结 & 2023 目标 - ./kwaa.dev](https://kwaa.dev/2023) | 1561 | [IA](https://web.archive.org/web/20230105031939/https://kwaa.dev/2023) |
 | [关于2022 - akearer's blog](https://akearer.top/post/summary-of-2022/) | 1619 | [IA](https://web.archive.org/web/20230107012256/https://akearer.top/post/summary-of-2022/) |
 | [2022总结 - TingChieh阿丁](https://blog.aisaka.cc/archives/99/) | 3 | [IA](https://web.archive.org/web/20230108154053/https://blog.aisaka.cc/archives/99/) |
 | [2022年终总结与展望 - 一蓑烟雨](https://easyf12.top/posts/7836da9e/) | Null | [IA](https://web.archive.org/web/20230110060206/https://easyf12.top/posts/7836da9e/) |
@@ -202,3 +202,5 @@
 | [2022年度总结 - UMR's Blog](https://www.umr.wiki/2022/12/31/54.html) | 1624 | [IA](https://web.archive.org/web/20230110064659/https://www.umr.wiki/2022/12/31/54.html) |
 | [2022 年末总结 - Cynosura's Blog](https://blog.cynosura.one/2022/12/2022-year-end-summary/) | Null | [IA](https://web.archive.org/web/20230110065317/https://blog.cynosura.one/2022/12/2022-year-end-summary/) |
 | [2022 年终总结 - Ursa Major](https://elfile4138.moe/2022/12/2022-Recap/) | 1625 | [IA](https://web.archive.org/web/20230111130807/https://elfile4138.moe/2022/12/2022-Recap/) |
+| [2022 - 哲学&电气马戏团](https://stihub.notion.site/2022-9d32ca2f67e84132aa78ad5c6cce1f97) | Null | [IA](https://web.archive.org/web/20230114075919/https://stihub.notion.site/2022-1a016564a1cb433ab51e4b0419acaaa0) |
+| [2022年终总结 - 编码记录](https://liudon.com/posts/review-2022/) | 1626 | [IA](https://web.archive.org/web/20230114075759/https://liudon.com/posts/review-2022/) |
