@@ -212,3 +212,5 @@
 | [我走过的2022 – 林海草原](https://lhcy.org/archives/189.html) | 658 | Blocked |
 | [2022 年终总结 - Nicksxs's Blog](https://nicksxs.me/2023/01/15/2022-%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) | 153 | [IA](https://web.archive.org/web/20230117135626/https://nicksxs.me/2023/01/15/2022-年终总结/) |
 | [2022 年终总结 - Yuexun's Blog](https://www.yuexun.me/blog/2022-summary) | 213 | [IA](https://web.archive.org/web/20230119162408/https://www.yuexun.me/blog/2022-summary) |
+| [我的 2022 年总结](https://lucifer.ren/blog/2023/01/18/2022/) | 189 | [IA](https://web.archive.org/web/20230123091604/https://lucifer.ren/blog/2023/01/18/2022/) |
+| [我的2022：艰难](https://www.skyue.com/23012016.html) | 998 | [IA](https://web.archive.org/web/20230123092605/https://www.skyue.com/23012016.html) |
