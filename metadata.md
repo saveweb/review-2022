@@ -214,3 +214,4 @@
 | [2022 年终总结 - Yuexun's Blog](https://www.yuexun.me/blog/2022-summary) | 213 | [IA](https://web.archive.org/web/20230119162408/https://www.yuexun.me/blog/2022-summary) |
 | [我的 2022 年总结](https://lucifer.ren/blog/2023/01/18/2022/) | 189 | [IA](https://web.archive.org/web/20230123091604/https://lucifer.ren/blog/2023/01/18/2022/) |
 | [我的2022：艰难](https://www.skyue.com/23012016.html) | 998 | [IA](https://web.archive.org/web/20230123092605/https://www.skyue.com/23012016.html) |
+| [2022 年终总结 - 吴润写字的地方](http://wu.run/2023/02/06/2022-year-in-review/) | 1018 | [IA](https://web.archive.org/web/20230207123426/http://www.wu.run/2023/02/06/2022-year-in-review/) |
