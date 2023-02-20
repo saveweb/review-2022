@@ -216,3 +216,11 @@
 | [我的2022：艰难](https://www.skyue.com/23012016.html) | 998 | [IA](https://web.archive.org/web/20230123092605/https://www.skyue.com/23012016.html) |
 | [2022 年终总结 - 吴润写字的地方](http://wu.run/2023/02/06/2022-year-in-review/) | 1018 | [IA](https://web.archive.org/web/20230207123426/http://www.wu.run/2023/02/06/2022-year-in-review/) |
 | [2022 年终总结·请回答 2022 - Muyun的杂谈](https://muyun.work/2022-summary.html) | 360 | [IA](https://web.archive.org/web/20230220092426/https://muyun.work/2022-summary.html) |
+| [2022：世界线收束中 - KSkun's Blog](https://ksmeow.moe/2022-world-line-attracting/) | 720 | [IA](https://web.archive.org/web/20230214154115/https://ksmeow.moe/2022-world-line-attracting/) |
+| [【2022年年终总结】脚踏泥土，仰望天空 – 山野平原居茶馆](http://lm.tanuki.moe/2023/01/%E3%80%902022%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%E3%80%91%E8%84%9A%E8%B8%8F%E6%B3%A5%E5%9C%9F%EF%BC%8C%E4%BB%B0%E6%9C%9B%E5%A4%A9%E7%A9%BA/) | 1559 | [IA](https://web.archive.org/web/20230211165207/http://lm.tanuki.moe/2023/01/%E3%80%902022%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%E3%80%91%E8%84%9A%E8%B8%8F%E6%B3%A5%E5%9C%9F%EF%BC%8C%E4%BB%B0%E6%9C%9B%E5%A4%A9%E7%A9%BA/) |
+| [2022 总结 - Eulerian Moe](https://eulerianmoe.github.io/misc/2023/01/21/2022review.html) | 1214 | [IA](https://web.archive.org/web/20230209141251/https://eulerianmoe.github.io/misc/2023/01/21/2022review.html) |
+| [StackHarbor 的 2022 尾记 - 喵's StackHarbor](https://sh.alynx.one/posts/2022-Tail/) | 1055 | [IA](https://web.archive.org/web/20230209164745/https://sh.alynx.one/posts/2022-Tail/) |
+| [2022 年终总结 - Randy's Blog](https://lutaonan.com/blog/2022-summary/) | 64 | [IA](https://web.archive.org/web/20230209151925/https://lutaonan.com/blog/2022-summary/) |
+| [2022 年的总结 - 卡瓦邦噶！](https://www.kawabangga.com/posts/4879) | 991 | [IA](https://web.archive.org/web/20230216090347/https://www.kawabangga.com/posts/4879) |
+| [2022 年终总结 - DIYgod](https://diygod.me/2022) | 28 | [IA](https://web.archive.org/web/20230220130840/https://diygod.me/2022) |
+| [珍珠之歌——我的2022总结 - 旅行者的随想](https://blog.besscroft.com/articles/2022/summary2022/) | 946 | [IA](https://web.archive.org/web/20221231192711/https://blog.besscroft.com/articles/2022/summary2022/) |
