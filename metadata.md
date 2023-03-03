@@ -225,4 +225,4 @@
 | [2022 年终总结 - DIYgod](https://diygod.me/2022) | 28 | [IA](https://web.archive.org/web/20230220130840/https://diygod.me/2022) |
 | [珍珠之歌——我的2022总结 - 旅行者的随想](https://blog.besscroft.com/articles/2022/summary2022/) | 946 | [IA](https://web.archive.org/web/20221231192711/https://blog.besscroft.com/articles/2022/summary2022/) |
 | [2022年的小确幸 - 你好我是森林](https://demochen.com/posts/20230101/) | 1631 | [IA](https://web.archive.org/web/20230206030957/https://demochen.com/posts/20230101/) |
-| [2022我的年度总结 - 前行](https://lab.imgb.space/post/2022-move-forward) | unknown | |
+| [2022我的年度总结 - 前行](https://lab.imgb.space/post/2022-move-forward) | 1632 | [IA](https://web.archive.org/web/20230303132132/https://lab.imgb.space/post/2022-move-forward) |
