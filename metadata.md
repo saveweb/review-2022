@@ -227,3 +227,4 @@
 | [2022年的小确幸 - 你好我是森林](https://demochen.com/posts/20230101/) | 1631 | [IA](https://web.archive.org/web/20230206030957/https://demochen.com/posts/20230101/) |
 | [2022我的年度总结 - 前行](https://lab.imgb.space/post/2022-move-forward) | 1632 | [IA](https://web.archive.org/web/20230303132132/https://lab.imgb.space/post/2022-move-forward) |
 | [总结 2022 - Nofated's Blog](https://blog.nofated.win/2023/01/01/2022) | 1637 | [IA](https://web.archive.org/web/20230327152623/https://blog.nofated.win/2023/01/01/2022) |
+| [关于我的 2022 - 柏园猫のBlog](https://nekomoe.xyz/index.html?type=article&filename=my-2022.md) | 1649 | Null |
