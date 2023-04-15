@@ -229,3 +229,7 @@
 | [总结 2022 - Nofated's Blog](https://blog.nofated.win/2023/01/01/2022) | 1637 | [IA](https://web.archive.org/web/20230327152623/https://blog.nofated.win/2023/01/01/2022) |
 | [关于我的 2022 - 柏园猫のBlog](https://nekomoe.xyz/index.html?type=article&filename=my-2022.md) | 1649 | [IA](https://web.archive.org/web/20230317080509/https://nekomoe.xyz/index.html?type=article&filename=my-2022.md) |
 | [Gaoice年终总结（2022） - 高&冰](https://gaoice.ba7jcm.live/2023/01/08/gaoice2022/) | Null | Null |
+| [2022 流水账 -晴雀堂](https://blog.nbplus.eu.org/posts/15084) | 1426 | [IA](https://web.archive.org/web/20230407102956/https://blog.nbplus.eu.org/posts/15084) |
+| [告别2022 - iNote](https://inote.xyz/2022-2023/) | 290 | [IA](https://web.archive.org/web/20230415103152/https://inote.xyz/2022-2023/) |
+| [我的2022年回顾 & 展望2023年 - huggy's blog](https://blog.huggy.moe/posts/2022/17-my-2022/) | 1656 | [IA](https://web.archive.org/web/20230415104103/https://blog.huggy.moe/posts/2022/17-my-2022/) |
+| [二〇二三年三月总结，时间都去哪儿了 - 阿锋的小宇宙](https://feng.pub/0420234760.html) | 1401 | [IA](https://web.archive.org/web/20230415104431/https://feng.pub/0420234760.html) |
