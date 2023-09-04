@@ -234,3 +234,4 @@
 | [我的2022年回顾 & 展望2023年 - huggy's blog](https://blog.huggy.moe/posts/2022/17-my-2022/) | 1656 | [IA](https://web.archive.org/web/20230415104103/https://blog.huggy.moe/posts/2022/17-my-2022/) |
 | [二〇二三年三月总结，时间都去哪儿了 - 阿锋的小宇宙](https://feng.pub/0420234760.html) | 1401 | [IA](https://web.archive.org/web/20230415104431/https://feng.pub/0420234760.html) |
 | [二〇二二的碎片 - JalenChuh](https://jalenz.cn/life/pieces-of-2022/) | 425 | [IA](https://web.archive.org/web/20230602090013/https://jalenz.cn/life/pieces-of-2022/) |
+| [2022年的总结 - 顾宇的博客](https://www.guyu.me/blog/2022/2022-12-31-annual-review-for-2022/) | 303 | [IA](https://web.archive.org/web/20230904154656/https://www.guyu.me/blog/2022/2022-12-31-annual-review-for-2022/) |
