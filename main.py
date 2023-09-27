@@ -3,7 +3,9 @@ import os
 flag = 0
 markdown = """# 2022年终总结
 
-> 2021 年的年终总结见：[saveweb/review-2021](https://github.com/saveweb/review-2021)
+- 2021 年的年终总结见：[saveweb/review-2021](https://github.com/saveweb/review-2021)
+- 2022 年：就是这里啦！
+- 2023 年的年终总结见：[saveweb/review-2021](https://github.com/saveweb/review-2023)
 
 与去年一样，本项目将长期维护（直到2024年初）。
 
