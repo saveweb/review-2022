@@ -237,4 +237,5 @@
 | [2022年的总结 - 顾宇的博客](https://www.guyu.me/blog/2022/2022-12-31-annual-review-for-2022/) | 303 | [IA](https://web.archive.org/web/20230904154656/https://www.guyu.me/blog/2022/2022-12-31-annual-review-for-2022/) |
 | [【年终总结&新年计划】2022，蜕变向前 – 一叶知秋](https://blog.rain.cx/year-by-year/2022-continue-go-forward/) | 1222 | [IA](https://web.archive.org/web/20231126173839/https://blog.rain.cx/year-by-year/2022-continue-go-forward/) |
 | [我的 2022 年总结 - 殷东亮的博客](https://yindongliang.com/posts/review-2022/) |  | [IA](https://web.archive.org/web/20230429182349/https://yindongliang.com/posts/review-2022/) |
+| [PeterJXL 的 2022年度总结 - 从01开始](https://www.peterjxl.com/About/summary-2022) | 1729 | [IA](https://web.archive.org/web/20240120043434/https://www.peterjxl.com/About/summary-2022/#%E6%97%B6%E9%97%B4%E7%BB%9F%E8%AE%A1) |
 
